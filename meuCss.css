@@ -1,0 +1,126 @@
+* {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+   
+    
+}
+
+h1{
+
+    
+    font-size: 70px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+
+header{
+
+    text-align:start;
+    
+}
+.escrita-topo p{
+    
+    font-size: 30px;
+}
+.escrita-topo{
+
+    font-weight: bold;
+    background-color: rgb(0, 105, 204);
+    padding: 50px;
+
+}
+
+.imagem2 img{
+
+    float: left;
+    margin: 50px;
+    border-radius: 100%;
+    
+    
+    
+}
+
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    padding: 50px;
+}
+
+.escrita1, .escrita2, .escrita3, .escrita4 p{
+
+    font-size: 20px;
+    text-align: center;
+    margin:auto;
+    line-height: 50px;
+    
+}
+
+.escrita1, .escrita2, .escrita3{
+
+    padding: 30px;
+}
+
+
+
+.conteudo2{
+
+    background-color: cadetblue;
+    padding-bottom: 150px;
+}
+
+.conteudo3{
+
+    background-color: cornflowerblue;
+    padding-bottom: 150px;
+}
+
+.conteudo4{
+
+    background-color:rgb(131, 68, 247);
+    padding-bottom: 170px;
+}
+
+.conteudo5{
+
+    background-color:rgb(108, 0, 151);
+    padding-bottom: 50px;
+
+}
+.imagem3 img{
+
+    float: right;
+    margin: 50px;
+    width: 20%;
+    margin-top: 160px;
+    
+}
+
+.imagem4 img{
+
+    float: left;
+    margin: 50px;
+    width: 20%;
+    margin-top: 110px;
+
+}
+
+ul{
+
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    list-style: none;
+    text-align: center;
+   
+}
